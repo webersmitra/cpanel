@@ -24,7 +24,7 @@ A Virtual Private Server (VPS) is a virtualized server that mimics the functiona
 # Where to Get a VPS Server?
 You can find reliable VPS hosting providers offering competitive prices, such as whiscloud.oom . https://whiscloud.com provides affordable VPS hosting plans with various configurations suitable for different needs.
 
-*First Thing
+# Installation Command
 
 **For Installation in *Ubuntu/Deepin* Run**
 ```
